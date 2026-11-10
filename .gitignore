@@ -1,0 +1,8 @@
+.next/
+.env.local
+*.tgz
+node_modules/
+npm-debug.log*
+dist/
+build/
+.cache/
